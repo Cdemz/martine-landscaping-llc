@@ -73,7 +73,7 @@ const Testimonials = () => {
               className=" hidden md:flex h-[12rem] w-full  object-cover"
             />
           </div>
-          <div className="mb-4 px-6 flex flex-col gap-8 max-h-[25rem] md:max-h-[28rem] overflow-y-scroll overflow-hidden mx-auto md:mx-0 ">
+          <div className="mb-4 px-6 flex flex-col gap-8 max-h-[25rem] md:max-h-[28rem] overflow-y-scroll overflow-hidden   ">
             {data.map((data, index) => (
               <div
                 key={index}

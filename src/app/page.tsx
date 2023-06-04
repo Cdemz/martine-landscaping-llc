@@ -31,12 +31,10 @@ export default function Home() {
             your landscape project is executed with precision and care. From
             meticulously selecting the finest materials to employing the latest
             techniques, we aim to deliver results that surpass your
-            expectations. We stay updated with the latest trends, technologies,
-            and environmentally friendly practices to offer you cutting-edge
-            solutions. Whether it's incorporating sustainable design features,
-            utilizing smart irrigation systems, or implementing energy-efficient
-            lighting, we strive to make your landscape project as eco-friendly
-            and efficient as possible.
+            expectations. Whether it's incorporating sustainable design
+            features, utilizing smart irrigation systems, or implementing
+            energy-efficient lighting, we strive to make your landscape project
+            as eco-friendly and efficient as possible.
           </p>
           <div className="buttons">
             <Link href="/services">
