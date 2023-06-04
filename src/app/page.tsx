@@ -27,10 +27,8 @@ export default function Home() {
           </h1>
           <p className="md:w-[70%]">
             {" "}
-            Our commitment to quality craftsmanship ensures that every aspect of
-            your landscape project is executed with precision and care. From
-            meticulously selecting the finest materials to employing the latest
-            techniques, we aim to deliver results that surpass your
+            From meticulously selecting the finest materials to employing the
+            latest techniques, we aim to deliver results that surpass your
             expectations. Whether it's incorporating sustainable design
             features, utilizing smart irrigation systems, or implementing
             energy-efficient lighting, we strive to make your landscape project
